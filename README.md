@@ -41,7 +41,7 @@ i.	For Closed:
 ii.	For Fixed, 
 
 	Clear “#N/As” from “JIRA IDs” column and clear “Comments” in the remaining rows.
-	Change all values under the column “Assigned to” to “chetan.puwar”. 
+	Change all values under the column “Assigned to” to “*******”. 
 	Finally, change status from Fixed to “Resolved”.
     
 c.	Clear the filter and select only for “Dev Assigned” and then perform the following :
@@ -54,7 +54,7 @@ iii.	Change “Dev Assigned” to “Dev Progress” for AE and to “Tech Analy
 
 iv.	Change “Assigned to” for newOPT tickets to “unassigned”.
 
- Perform these steps forAE tickets only (not OPT) with Status of “New”. Delete all the rows for OPT tickets only with the status of “New” if found.
+ Perform these steps for AE tickets only (not OPT) with Status of “New”. Delete all the rows for OPT tickets only with the status of “New” if found.
  
 9.	Make sure to CLEAR ALL FILTERS, then add “project key” as new column and perform the following:
 
